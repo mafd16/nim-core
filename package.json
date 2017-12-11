@@ -6,17 +6,25 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-scrutinizer": "nyc --all --reporter=clover mocha 'test/**/*.js'"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mafd16/nim-core.git"
   },
-  "keywords": ["nim", "game"],
+  "keywords": [
+    "nim",
+    "game"
+  ],
   "author": "Martin Fagerlund",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mafd16/nim-core/issues"
   },
-  "homepage": "https://github.com/mafd16/nim-core#readme"
+  "homepage": "https://github.com/mafd16/nim-core#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "nyc": "^11.3.0"
+  }
 }
