@@ -24,6 +24,14 @@ To use the Nim game class in your code, add
 const Nim = require("nim-core");
 ```
 
+### How to run tests
+
+To test the code, run
+
+```
+npm run test-scrutinizer
+```
+
 ### License
 
 This software carries a MIT license.
