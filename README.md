@@ -3,6 +3,7 @@
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mafd16/nim-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mafd16/nim-core/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/mafd16/nim-core/badges/build.png?b=master)](https://scrutinizer-ci.com/g/mafd16/nim-core/build-status/master)
+[![Code Coverage](https://scrutinizer-ci.com/g/mafd16/nim-core/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mafd16/nim-core/?branch=master)
 
 
 The Nim game - A class for the game [Nim](https://en.wikipedia.org/wiki/Nim).
