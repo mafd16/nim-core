@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1513000716823" clover="3.2.0">
-  <project timestamp="1513000716824" name="All files">
+<coverage generated="1513003118284" clover="3.2.0">
+  <project timestamp="1513003118285" name="All files">
     <metrics statements="28" coveredstatements="28" conditionals="15" coveredconditionals="15" methods="5" coveredmethods="5" elements="48" coveredelements="48" complexity="0" loc="28" ncloc="28" packages="1" files="1" classes="1">
       <file name="nim.js" path="C:\cygwin64\home\Fagerlund\dbwebb-kurser\ramverk2\me\nim-core\src\nim\nim.js">
         <metrics statements="28" coveredstatements="28" conditionals="15" coveredconditionals="15" methods="5" coveredmethods="5"/>

@@ -29,7 +29,7 @@ const Nim = require("nim-core");
 To test the code, run
 
 ```
-npm run test-scrutinizer
+npm run test
 ```
 
 ### License
